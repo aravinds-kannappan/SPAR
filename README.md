@@ -1,4 +1,4 @@
-# GWT Consciousness Explorer
+# AI Consciousness Explorer
 
 A research tool for assessing whether leading 2024 LLMs show evidence of consciousness properties defined by Global Workspace Theory (GWT). Models rate themselves and each other on 30 indicator questions across 6 GWT features using a 1–7 Likert scale. The site displays precomputed baseline results and supports live querying via an OpenRouter API key.
 
